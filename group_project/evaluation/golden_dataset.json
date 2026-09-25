@@ -1,0 +1,92 @@
+[
+  {
+    "question": "Sử dụng phần mềm thứ ba can thiệp vào game (hack map, mod skin) bị phạt thời hạn khóa như thế nào?",
+    "expected_answer": "Theo quy định hiện hành có hiệu lực từ 1/1/2026, sử dụng phần mềm thứ ba can thiệp trò chơi, hệ thống (hack map, mod skin, mod giao diện, hack lag, GameGuardian, Bug tầm nhìn siêu xa, sử dụng máy ảo...) bị khóa từ 3 năm tới vĩnh viễn (khóa đến năm 2082 hoặc 2090).",
+    "expected_context": "Sử dụng phần mềm thứ 3 can thiệp trò chơi, hệ thống (hack map, mod skin, mod giao diện, hack lag, GameGuardian, Bug tầm nhìn siêu xa, sử dụng máy ảo,…) | Từ 3 năm tới vĩnh viễn (Khóa đến năm 2082 hoặc 2090)"
+  },
+  {
+    "question": "Cố tình thua trong trận đấu xếp hạng (hạ rank) bị khóa bao lâu?",
+    "expected_answer": "Cố tình thua trong trận đấu xếp hạng / hạ rank bị khóa từ 3 tháng đến 1 năm.",
+    "expected_context": "Cố tình thua trong trận đấu xếp hạng / Hạ rank | Từ 3 tháng đến 1 năm"
+  },
+  {
+    "question": "Tham gia dàn xếp trận đấu thường 5v5, 3v3, giải trí bị xử phạt ra sao?",
+    "expected_answer": "Tham gia dàn xếp trận đấu thường 5v5, 3v3, giải trí bị khóa từ 3 tháng tới 3 năm (quy định hiệu lực từ 1/1/2026). Riêng dàn xếp trận hạng 5v5, cúp vinh quang, đấu đỉnh cao bị từ 1 năm tới 10 năm.",
+    "expected_context": "Tham gia dàn xếp trận đấu thường 5v5, 3v3, giải trí | Từ 3 tháng tới 3 năm"
+  },
+  {
+    "question": "Quảng cáo hoặc sử dụng dịch vụ cày thuê bị phạt thế nào?",
+    "expected_answer": "Quảng cáo, cung cấp hoặc sử dụng dịch vụ cày thuê bị khóa từ 1 năm tới vĩnh viễn (khóa đến năm 2082 hoặc 2090).",
+    "expected_context": "Quảng cáo, cung cấp hoặc sử dụng dịch vụ cày thuê | Từ 1 năm tới vĩnh viễn (Khóa đến năm 2082 hoặc 2090)"
+  },
+  {
+    "question": "Nhận vật phẩm từ tài khoản nạp lậu quân huy bị khóa bao lâu?",
+    "expected_answer": "Nhận vật phẩm từ tài khoản nạp lậu quân huy bị khóa từ 7 ngày tới vĩnh viễn tùy mức độ vi phạm (khóa đến năm 2082 hoặc 2090) theo quy định hiệu lực từ 1/1/2026.",
+    "expected_context": "Nhận vật phẩm từ tài khoản nạp lậu | Từ 7 ngày tới vĩnh viễn (Khóa đến năm 2082 hoặc 2090)"
+  },
+  {
+    "question": "Tài khoản bị khóa do nạp lậu quân huy thì cần làm gì để được mở khóa?",
+    "expected_answer": "Người chơi có thể tự xem số quân huy cần nạp bù tại trang Danh sách xử phạt (xuphat.lienquan.garena.vn); sau khi nạp đủ số quân huy theo yêu cầu, gửi phiếu yêu cầu qua hotro.garena.vn để được hỗ trợ. Ngoài ra cần nạp dư sẵn tương đương số quân huy mua lậu để khấu trừ nếu người bán yêu cầu hoàn tiền, nếu không tài khoản sẽ bị khóa vĩnh viễn.",
+    "expected_context": "Tài khoản bị khóa đến năm 2082 hoặc 2090 do nạp lậu: Bạn có thể tự xem số quân huy cần nạp bù tại trang Danh sách xử phạt, sau khi nạp đủ số quân huy theo yêu cầu, bạn vui lòng gửi phiếu yêu cầu để được hỗ trợ."
+  },
+  {
+    "question": "Hành vi treo máy, phá trận, lăng mạ thường xuyên trong game bị phạt thế nào từ 1/1/2026?",
+    "expected_answer": "Bị tố cáo hành vi tiêu cực thường xuyên trong game (treo máy, phá trận, lăng mạ, cướp vị trí...) bị khóa từ 1 ngày tới 30 ngày theo quy định có hiệu lực từ 1/1/2026.",
+    "expected_context": "Bị tố cáo hành vi tiêu cực thường xuyên trong game (Treo máy, phá trận, lăng mạ, cướp vị trí,…) | Từ 1 ngày tới 30 ngày"
+  },
+  {
+    "question": "Cho người khác mượn thiết bị chơi game và hành vi bị cấm xảy ra trên đó thì có bị xử phạt không?",
+    "expected_answer": "Có. Tài khoản không trực tiếp thực hiện hành vi bị cấm nhưng để hành vi xảy ra trên thiết bị của mình (cho người khác mượn thiết bị chơi game) hoặc để tài khoản của mình được đăng nhập trên thiết bị có hành vi bị cấm cũng sẽ bị xử lý theo khung xử phạt tương ứng.",
+    "expected_context": "Các tài khoản không trực tiếp thực hiện những hành vi bị cấm này, nhưng để hành vi xảy ra trên thiết bị của mình (cho người khác mượn thiết bị chơi game), hoặc để tài khoản của mình được đăng nhập trên thiết bị có hành vi bị cấm… cũng sẽ bị xử lý với khung xử phạt trên."
+  },
+  {
+    "question": "Trẻ dưới 16 tuổi muốn chơi game Garena cần đáp ứng điều gì?",
+    "expected_answer": "Người chơi dưới 16 tuổi cần được cha, mẹ hoặc người giám hộ hợp pháp đăng ký và xác thực tài khoản bằng thông tin của mình, người giám hộ phải đọc, hiểu và đồng ý với Điều Khoản Dịch Vụ và Chính Sách Bảo Mật, và luôn được giám sát khi sử dụng dịch vụ.",
+    "expected_context": "Trường hợp Bạn là người chơi dưới 16 (mười sáu) tuổi, Bạn cần đảm bảo: (a) Bạn đã được cha, mẹ, hoặc người giám hộ hợp pháp đăng ký và xác thực Tài Khoản bằng thông tin của cha, mẹ, hoặc người giám hộ trước khi tham gia, sử dụng Trò Chơi, Các Dịch Vụ của Garena."
+  },
+  {
+    "question": "Tài khoản Garena không hoạt động quá bao lâu thì có thể bị xóa?",
+    "expected_answer": "Nếu tài khoản không hoạt động (không đăng nhập hoặc sử dụng) quá 6 tháng, Garena có quyền xóa hoặc vô hiệu hóa tài khoản, và đơn vị ảo, điểm thưởng cùng các vật phẩm ảo trong tài khoản sẽ bị mất mà không được hoàn trả.",
+    "expected_context": "Nếu Tài Khoản của Bạn không hoạt động (có nghĩa là Bạn đã không đăng nhập vào hoặc sử dụng Tài Khoản của mình) quá 06 tháng, Garena có quyền xóa hoặc vô hiệu Tài Khoản của Bạn và đơn vị ảo, điểm thưởng và tất cả các vật phẩm ảo khác trong trò chơi có trong Tài Khoản của Bạn sẽ bị mất."
+  },
+  {
+    "question": "Đơn vị ảo và vật phẩm ảo trong game có giá trị quy đổi ra tiền mặt không?",
+    "expected_answer": "Không. Đơn vị ảo và vật phẩm ảo không có giá trị tiền tệ và không có giá trị bên ngoài dịch vụ; không được bán, mua bán, chuyển nhượng, quy đổi hoặc đổi lấy tiền mặt, hàng hóa hay dịch vụ khác ngoài trò chơi và dịch vụ.",
+    "expected_context": "Đơn vị ảo và Vật phẩm ảo không có giá trị tiền tệ và không có giá trị bên ngoài Dịch vụ. Đơn vị ảo không được bán, mua bán, chuyển nhượng, quy đổi hoặc đổi lấy tiền mặt hoặc hàng hóa hoặc dịch vụ khác ngoài Trò chơi và Dịch vụ."
+  },
+  {
+    "question": "Ngọc trong Liên Quân Mobile được mở khóa và nâng cấp như thế nào?",
+    "expected_answer": "Hệ thống Ngọc nằm trong phần Trang Bị -> Combo -> Ngọc ở màn hình chính; toàn bộ ngọc cấp 2 được mở khóa khi người chơi đạt cấp 7. Để nâng cấp ngọc, người chơi cần dùng mảnh ngọc hoặc vàng, và có thể nhận ngọc qua sự kiện hoặc thành tựu trong game.",
+    "expected_context": "Nằm trong phần Trang Bị->Combo->Ngọc ở màn hình chính, hệ thống Ngọc và toàn bộ ngọc cấp 2 sẽ được mở khoá sau khi người chơi đạt cấp 7. Để nâng cấp ngọc, người chơi cần sử dụng mảnh ngọc hoặc vàng."
+  },
+  {
+    "question": "Phù hiệu Rừng nguyên sinh thích hợp với những vai trò nào?",
+    "expected_answer": "Phù hiệu Rừng nguyên sinh thích hợp với Hỗ trợ và Đỡ đòn.",
+    "expected_context": "Rừng nguyên sinh: Thích hợp với Hỗ trợ và Đỡ đòn."
+  },
+  {
+    "question": "Valhein có vai trò gì và kỹ năng của vị tướng này được lấy từ tướng nào trong Vương Giả Vinh Diệu?",
+    "expected_answer": "Valhein là một vị tướng Xạ thủ trong Liên Quân Mobile, cũng là tướng đầu tiên mọi người chơi mới đều có thể sở hữu. Kỹ năng của Valhein được lấy từ bản gốc Vương Giả Vinh Diệu là Địch Nhân Kiệt (狄仁杰).",
+    "expected_context": "Valhein là một vị tướng Xạ thủ trong Liên Quân Mobile và cũng là tướng đầu tiên mọi người chơi mới đều có thể sở hữu. Kỹ năng của vị tướng này được lấy từ bản gốc VGVD là Địch Nhân Kiệt hay Di Renjie."
+  },
+  {
+    "question": "Chiêu cuối của Alice có hiệu ứng khống chế gì?",
+    "expected_answer": "Chiêu 3 của Alice (Dòng chảy thời không) gọi ra một pháp trận ma thuật gây sát thương phép, khiến các kẻ địch trong phạm vi bị câm lặng 1 giây và làm chậm 60%; pháp trận tồn tại 6 giây, kẻ địch đứng trong đó mỗi 0.5 giây chịu sát thương phép và bị làm chậm 20%.",
+    "expected_context": "Chiêu 3 (Dòng chảy thời không) | Alice gọi ra một pháp trận ma thuật gây sát thương phép đồng thời khiến các kẻ địch trong phạm vi bị câm lặng 1 giây và bị làm chậm 60%."
+  },
+  {
+    "question": "Florentino nên lên những trang bị giữ mạng nào về cuối trận?",
+    "expected_answer": "Về cuối trận trong giao tranh tổng, Florentino nên thay đổi một món đồ sang các trang bị giữ mạng như Giáp hộ mệnh, Liềm đoạt mệnh hay Nham thuẫn để tạo điều kiện cho đồng đội xả sát thương mà bản thân vẫn có thể múa giữa đội hình kẻ địch.",
+    "expected_context": "về cuối trận trong giao tranh tổng nên thay đổi một món đồ sang các trang bị giữ mạng như Giáp hộ mệnh, Liềm đoạt mệnh hay Nham thuẫn nhằm tạo điều kiện cho đồng đội xả sát thương mà bản thân vẫn có thể múa giữa đội hình kẻ địch"
+  },
+  {
+    "question": "Phù hiệu được mở khóa ở cấp độ tài khoản nào và có miễn phí không?",
+    "expected_answer": "Hệ thống Phù hiệu hoàn toàn miễn phí và được mở khóa toàn bộ cho tài khoản đạt cấp độ 5 trở lên. Phù hiệu không thay thế bảng ngọc mà tồn tại song song với bảng ngọc.",
+    "expected_context": "Hệ thống Phù hiệu hoàn toàn miễn phí và được mở khóa toàn bộ cho tài khoản đạt cấp độ 5 trở lên."
+  },
+  {
+    "question": "Liên Quân Mobile có còn hỗ trợ phần mềm giả lập không?",
+    "expected_answer": "Không. Liên Quân đã tiến hành ngừng hỗ trợ phần mềm giả lập từ ngày 12 tháng 12 năm 2023.",
+    "expected_context": "Liên Quân đã tiến hành ngừng hỗ trợ phần mềm giả lập từ ngày 12 tháng 12 năm 2023."
+  }
+]
