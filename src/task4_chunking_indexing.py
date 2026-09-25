@@ -39,7 +39,7 @@ else:
 
 COLLECTION_NAME = "rag_documents"
 
-_EMBEDDING_BATCH_SIZE = 128
+_EMBEDDING_BATCH_SIZE = 32
 
 
 def embed_texts(texts: list[str]) -> list[list[float]]:
